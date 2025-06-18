@@ -46,7 +46,7 @@ button {
 /* Top panel in sample config uses this name */
 #panel-top {
     /*background: #030303;*/
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.6);
     
     border-radius: 0;
     color: #eeeeee;

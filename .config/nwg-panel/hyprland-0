@@ -1,7 +1,7 @@
 [
   {
     "name": "top",
-    "output": "",
+    "output": "All",
     "layer": "overlay",
     "position": "top",
     "width": "auto",
@@ -219,7 +219,7 @@
     },
     "run-if-output-exist": [],
     "run-if-output-absent": [],
-    "monitor": "LG Electronics LG ULTRAGEAR 305NTQDA1388",
+    "monitor": "",
     "width-as-percentage": false,
     "sigrt": 64,
     "use-sigrt": false,
@@ -290,6 +290,8 @@
       "padding": 2,
       "terminal": "foot",
       "run-through-compositor": true
-    }
+    },
+    "niri-taskbar": {},
+    "pinned": {}
   }
 ]
